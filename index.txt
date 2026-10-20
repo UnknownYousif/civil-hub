@@ -1,0 +1,31 @@
+1:"$Sreact.fragment"
+2:"/civil-hub/_next/static/chunks/2sr5bknm6dc6p.js"
+3:I[22016,["$2"],""]
+4:I[68333,["$2"],"SheetLabel"]
+5:I[19449,["$2"],"NavBar"]
+6:I[39756,["$2"],"default"]
+7:I[37457,["$2"],"default"]
+9:"/civil-hub/_next/static/chunks/02abvhk8j8csz.js"
+a:I[15228,["$2","$9"],"HeroBranches"]
+b:I[97367,["$2"],"OutletBoundary"]
+c:"$Sreact.suspense"
+e:"ViewportBoundary"
+f:I[97367,["$2"],"$e"]
+11:"MetadataBoundary"
+12:I[97367,["$2"],"$11"]
+14:I[68027,["$2"],"default",1]
+:HL["/civil-hub/_next/static/chunks/1u39nou2mesfe.css","style"]
+:HL["/civil-hub/_next/static/media/280fac012b00b901-s.p.3ihiqn4pviisd.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/civil-hub/_next/static/media/3347fc7792f0b5ea-s.p.0c7ha31nuacbu.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/civil-hub/_next/static/media/5ad8fdb5805e9b4a-s.p.0-uv4l43gdmt7.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/civil-hub/_next/static/media/5d6231e6818a3930-s.p.2vs72h_x6qrve.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/civil-hub/_next/static/media/84cd8d504984ae62-s.p.0iritm8hg8q1a.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/civil-hub/_next/static/media/99e609270109b47d-s.p.40sczeszzbjw1.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/civil-hub/_next/static/media/c9a0d344f313d307-s.p.3ik2qu-u9tgho.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/civil-hub/_next/static/media/effe91970fc4db64-s.p.0oace-s_gkfks.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+8:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":[["$","$La",null,{}],[["$","script","script-0",{"src":"/civil-hub/_next/static/chunks/02abvhk8j8csz.js","async":true,"nonce":"$undefined"}]],["$","$Lb",null,{"children":["$","$c",null,{"name":"Next.MetadataOutlet","children":"$@d"}]}]]}],"p":false,"v":null}}]]
+0:{"P":null,"c":["",""],"q":"","i":false,"t":{"t":{"s":"","h":528,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/civil-hub/_next/static/chunks/1u39nou2mesfe.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/civil-hub/_next/static/chunks/2sr5bknm6dc6p.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ar","dir":"rtl","className":"_6SVm8q_variable cjC0Ca_variable","children":["$","body",null,{"className":"min-h-dvh antialiased","children":[["$","header",null,{"className":"mx-auto max-w-6xl px-4 pt-8 pb-6 sm:pt-12","children":["$","div",null,{"className":"grid gap-px border border-line bg-line sm:grid-cols-[1fr_auto]","children":[["$","div",null,{"className":"bg-ink px-5 py-6 sm:px-8 sm:py-8","children":[["$","p",null,{"className":"font-mono text-xs tracking-[0.25em] text-cyan uppercase","dir":"ltr","children":["PROJECT NAME"," · CIVIL ENG."]}],["$","h1",null,{"className":"mt-3 text-4xl font-bold text-paper sm:text-6xl","children":["$","$L3",null,{"href":"/","className":"hover:text-amber transition-colors","children":"اسم المشروع"}]}],["$","p",null,{"className":"mt-3 text-base text-muted sm:text-lg","children":["دليل طالب الهندسة المدنية المستجد"," — ","جامعة العلوم والتكنولوجيا الأردنية"]}]]}],["$","dl",null,{"className":"grid grid-cols-3 gap-px bg-line font-mono text-[11px] sm:grid-cols-1 sm:w-44","dir":"ltr","children":[["$","div",null,{"className":"flex flex-col justify-center bg-ink px-4 py-3","children":[["$","dt",null,{"className":"tracking-[0.2em] text-muted","children":"SHEET"}],["$","dd",null,{"className":"mt-1 text-sm text-paper","children":["$","$L4",null,{}]}]]}],["$","div",null,{"className":"flex flex-col justify-center bg-ink px-4 py-3","children":[["$","dt",null,{"className":"tracking-[0.2em] text-muted","children":"DEPT"}],["$","dd",null,{"className":"mt-1 text-sm text-paper","children":"CIVIL"}]]}],["$","div",null,{"className":"flex flex-col justify-center bg-ink px-4 py-3","children":[["$","dt",null,{"className":"tracking-[0.2em] text-muted","children":"REV"}],["$","dd",null,{"className":"mt-1 text-sm text-amber","children":"0.1"}]]}]]}]]}]}],["$","$L5",null,{}],["$","main",null,{"children":["$","$L6",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","section",null,{"className":"mx-auto max-w-6xl px-4 py-20 text-center","children":[["$","p",null,{"className":"font-mono text-xs tracking-[0.3em] text-amber","dir":"ltr","children":"UNDER CONSTRUCTION"}],["$","h2",null,{"className":"mt-4 text-3xl font-bold","children":"هاي الصفحة قيد الإنشاء"}],["$","p",null,{"className":"mt-3 text-muted","children":"رح نضيفها قريباً."}],["$","$L3",null,{"href":"/","className":"mt-8 inline-block border border-line px-5 py-2.5 text-sm hover:border-amber hover:text-amber transition-colors","children":"الرجوع للرئيسية"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]}]]}],"p":false,"v":null},"c":"$Q8"},"h":{"r":["$","$1","h",{"children":[null,["$","$Lf",null,{"children":"$L10"}],["$","$L12",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$c",null,{"name":"Next.Metadata","children":"$L13"}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":false,"v":null}},"m":"$undefined","G":["$14",[["$","link","0",{"rel":"stylesheet","href":"/civil-hub/_next/static/chunks/1u39nou2mesfe.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"q-_OUsQcxXpiZkwd7H7Mm"}
+10:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#0a1a2b"}]]
+15:I[27201,["$2"],"IconMark"]
+d:null
+13:[["$","title","0",{"children":"اسم المشروع | الهندسة المدنية"}],["$","meta","1",{"name":"description","content":"دليل طالب الهندسة المدنية المستجد — جامعة العلوم والتكنولوجيا الأردنية"}],["$","link","2",{"rel":"icon","href":"/civil-hub/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L15","3",{}]]
